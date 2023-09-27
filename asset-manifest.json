@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.61573554.css",
-    "main.js": "/weather/static/js/main.181197c6.js",
-    "static/js/787.13d76ca7.chunk.js": "/weather/static/js/787.13d76ca7.chunk.js",
-    "static/media/nature.jpg": "/weather/static/media/nature.cd93c3df63b37630f84d.jpg",
-    "index.html": "/weather/index.html",
-    "main.61573554.css.map": "/weather/static/css/main.61573554.css.map",
-    "main.181197c6.js.map": "/weather/static/js/main.181197c6.js.map",
-    "787.13d76ca7.chunk.js.map": "/weather/static/js/787.13d76ca7.chunk.js.map"
+    "main.css": "/beetrootacademyaccount.github.io/static/css/main.b346c9c3.css",
+    "main.js": "/beetrootacademyaccount.github.io/static/js/main.93f245a7.js",
+    "static/js/787.b9ed2829.chunk.js": "/beetrootacademyaccount.github.io/static/js/787.b9ed2829.chunk.js",
+    "static/media/nature.jpg": "/beetrootacademyaccount.github.io/static/media/nature.cd93c3df63b37630f84d.jpg",
+    "index.html": "/beetrootacademyaccount.github.io/index.html",
+    "main.b346c9c3.css.map": "/beetrootacademyaccount.github.io/static/css/main.b346c9c3.css.map",
+    "main.93f245a7.js.map": "/beetrootacademyaccount.github.io/static/js/main.93f245a7.js.map",
+    "787.b9ed2829.chunk.js.map": "/beetrootacademyaccount.github.io/static/js/787.b9ed2829.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61573554.css",
-    "static/js/main.181197c6.js"
+    "static/css/main.b346c9c3.css",
+    "static/js/main.93f245a7.js"
   ]
 }
